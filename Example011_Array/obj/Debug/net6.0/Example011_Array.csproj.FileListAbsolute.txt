@@ -1,0 +1,15 @@
+D:\Examples\Example011_Array\bin\Debug\net6.0\Example011_Array.exe
+D:\Examples\Example011_Array\bin\Debug\net6.0\Example011_Array.deps.json
+D:\Examples\Example011_Array\bin\Debug\net6.0\Example011_Array.runtimeconfig.json
+D:\Examples\Example011_Array\bin\Debug\net6.0\Example011_Array.dll
+D:\Examples\Example011_Array\bin\Debug\net6.0\Example011_Array.pdb
+D:\Examples\Example011_Array\obj\Debug\net6.0\Example011_Array.csproj.AssemblyReference.cache
+D:\Examples\Example011_Array\obj\Debug\net6.0\Example011_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Example011_Array\obj\Debug\net6.0\Example011_Array.AssemblyInfoInputs.cache
+D:\Examples\Example011_Array\obj\Debug\net6.0\Example011_Array.AssemblyInfo.cs
+D:\Examples\Example011_Array\obj\Debug\net6.0\Example011_Array.csproj.CoreCompileInputs.cache
+D:\Examples\Example011_Array\obj\Debug\net6.0\Example011_Array.dll
+D:\Examples\Example011_Array\obj\Debug\net6.0\refint\Example011_Array.dll
+D:\Examples\Example011_Array\obj\Debug\net6.0\Example011_Array.pdb
+D:\Examples\Example011_Array\obj\Debug\net6.0\Example011_Array.genruntimeconfig.cache
+D:\Examples\Example011_Array\obj\Debug\net6.0\ref\Example011_Array.dll

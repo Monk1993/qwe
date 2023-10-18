@@ -1,0 +1,15 @@
+D:\Examples\Example008_Functions\bin\Debug\net6.0\Example008_Functions.exe
+D:\Examples\Example008_Functions\bin\Debug\net6.0\Example008_Functions.deps.json
+D:\Examples\Example008_Functions\bin\Debug\net6.0\Example008_Functions.runtimeconfig.json
+D:\Examples\Example008_Functions\bin\Debug\net6.0\Example008_Functions.dll
+D:\Examples\Example008_Functions\bin\Debug\net6.0\Example008_Functions.pdb
+D:\Examples\Example008_Functions\obj\Debug\net6.0\Example008_Functions.csproj.AssemblyReference.cache
+D:\Examples\Example008_Functions\obj\Debug\net6.0\Example008_Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Example008_Functions\obj\Debug\net6.0\Example008_Functions.AssemblyInfoInputs.cache
+D:\Examples\Example008_Functions\obj\Debug\net6.0\Example008_Functions.AssemblyInfo.cs
+D:\Examples\Example008_Functions\obj\Debug\net6.0\Example008_Functions.csproj.CoreCompileInputs.cache
+D:\Examples\Example008_Functions\obj\Debug\net6.0\Example008_Functions.dll
+D:\Examples\Example008_Functions\obj\Debug\net6.0\refint\Example008_Functions.dll
+D:\Examples\Example008_Functions\obj\Debug\net6.0\Example008_Functions.pdb
+D:\Examples\Example008_Functions\obj\Debug\net6.0\Example008_Functions.genruntimeconfig.cache
+D:\Examples\Example008_Functions\obj\Debug\net6.0\ref\Example008_Functions.dll

@@ -1,0 +1,15 @@
+D:\Examples\Example010_implementation\bin\Debug\net6.0\Example010_implementation.exe
+D:\Examples\Example010_implementation\bin\Debug\net6.0\Example010_implementation.deps.json
+D:\Examples\Example010_implementation\bin\Debug\net6.0\Example010_implementation.runtimeconfig.json
+D:\Examples\Example010_implementation\bin\Debug\net6.0\Example010_implementation.dll
+D:\Examples\Example010_implementation\bin\Debug\net6.0\Example010_implementation.pdb
+D:\Examples\Example010_implementation\obj\Debug\net6.0\Example010_implementation.csproj.AssemblyReference.cache
+D:\Examples\Example010_implementation\obj\Debug\net6.0\Example010_implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Example010_implementation\obj\Debug\net6.0\Example010_implementation.AssemblyInfoInputs.cache
+D:\Examples\Example010_implementation\obj\Debug\net6.0\Example010_implementation.AssemblyInfo.cs
+D:\Examples\Example010_implementation\obj\Debug\net6.0\Example010_implementation.csproj.CoreCompileInputs.cache
+D:\Examples\Example010_implementation\obj\Debug\net6.0\Example010_implementation.dll
+D:\Examples\Example010_implementation\obj\Debug\net6.0\refint\Example010_implementation.dll
+D:\Examples\Example010_implementation\obj\Debug\net6.0\Example010_implementation.pdb
+D:\Examples\Example010_implementation\obj\Debug\net6.0\Example010_implementation.genruntimeconfig.cache
+D:\Examples\Example010_implementation\obj\Debug\net6.0\ref\Example010_implementation.dll
