@@ -1,0 +1,15 @@
+D:\Examples\Example018_RecursionDop3\bin\Debug\net6.0\Example018_RecursionDop3.exe
+D:\Examples\Example018_RecursionDop3\bin\Debug\net6.0\Example018_RecursionDop3.deps.json
+D:\Examples\Example018_RecursionDop3\bin\Debug\net6.0\Example018_RecursionDop3.runtimeconfig.json
+D:\Examples\Example018_RecursionDop3\bin\Debug\net6.0\Example018_RecursionDop3.dll
+D:\Examples\Example018_RecursionDop3\bin\Debug\net6.0\Example018_RecursionDop3.pdb
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\Example018_RecursionDop3.csproj.AssemblyReference.cache
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\Example018_RecursionDop3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\Example018_RecursionDop3.AssemblyInfoInputs.cache
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\Example018_RecursionDop3.AssemblyInfo.cs
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\Example018_RecursionDop3.csproj.CoreCompileInputs.cache
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\Example018_RecursionDop3.dll
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\refint\Example018_RecursionDop3.dll
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\Example018_RecursionDop3.pdb
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\Example018_RecursionDop3.genruntimeconfig.cache
+D:\Examples\Example018_RecursionDop3\obj\Debug\net6.0\ref\Example018_RecursionDop3.dll
